@@ -1,9 +1,6 @@
-👋 Hi, I'm Sudarshan Reddy<br><br>I'm a **Full-Stack Developer** and **B.Tech CSE student** passionate about building modern, scalable, and user-friendly web applications. I enjoy turning ideas into real-world products and continuously improving my problem-solving and development skills.<br><br>
-Tech Stack :<br>
-Frontend: HTML,CSS,TAILWINDCSS,REACT,VITE<br>
-Backend: JAVASCRIPT,NODEJS,EXPRESSJS,TYPESCRIPT<br>
-Database: MONGODB,MYSQL,POSTGRESQL
-<br><br>📫 **Let's connect and build something awesome!**<br>
+<h3>👋 Hi, I'm Sudarshan Reddy<br><br>I'm a **Full-Stack Developer** and **B.Tech CSE student** passionate about building modern, scalable, and user-friendly web applications. I enjoy turning ideas into real-world products and continuously improving my problem-solving and development skills.</h3><br><br>
+
+<h2>📫 **Let's connect and build something awesome!**</h2><br>
 
 
  🌐 Socials:
