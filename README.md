@@ -1,8 +1,5 @@
-<h3>👋 Hi, I'm Sudarshan Reddy<br><br>I'm a **Full-Stack Developer** and **B.Tech CSE student** passionate about building modern, scalable, and user-friendly web applications. I enjoy turning ideas into real-world products and continuously improving my problem-solving and development skills.</h3><br><br>
-
+<h3>👋 Hi, I'm Sudarshan Reddy<br><br>I'm a **Full-Stack Developer** and **B.Tech CSE student** passionate about building modern, scalable, and user-friendly web applications. I enjoy turning ideas into real-world products and continuously improving my problem-solving and development skills.</h3><br>
 <h2>📫 **Let's connect and build something awesome!**</h2><br>
-
-
  🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudarshan_184_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudarshanreddy18/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reddysudarshan607@gmail.com) 
 
